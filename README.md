@@ -1,16 +1,13 @@
 # weathercast
 
-A new Flutter project.
+A Flutter Project that displays user's current location weather or any city weather using OpenWeatherMap API. 
+
+[Click here for step by step medium article.](https://samiaashraf.medium.com/build-a-realtime-weather-app-in-flutter-using-futurebuilder-90959c47c399)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone the project to get started
+2. Register at [OpenWeatherMap](https://home.openweathermap.org/) to get the API key.
+3. Replace the api_key in api_key.dart file
+4. Run the project
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
